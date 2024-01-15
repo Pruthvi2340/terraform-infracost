@@ -1,4 +1,9 @@
 # terraform-infracost
+# Reproduce
+1. Add the terraform configuration to your terraform code
+2. Add all files main.tf, variables.tf, output.tf, terraform.tfvars
+
+
 # Installation
 **mac/linux**
 ```
